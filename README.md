@@ -39,10 +39,12 @@ Primero entiendo el proceso, los números y el retorno; después escribo código
 
 **Resultado destacado (Saputo):** un modelo de segmentación de riesgo que redujo un 20% la deuda vencida a +60 días en seis meses.
 
-### Prototipos públicos
+### Proyectos open source
 
 | Repo | Qué muestra |
 |---|---|
+| 🏦 [conciliacion-bancaria](https://github.com/varelajm10/conciliacion-bancaria) | Conciliación bancaria automática: cruza extracto vs. facturas con 5 reglas (nº de factura, CUIT, nombre difuso, pagos agrupados y parciales) y exporta un Excel listo para el cierre. Python, pandas, Streamlit. |
+| 🤖 [agente-cobranzas-ia](https://github.com/varelajm10/agente-cobranzas-ia) | Agente de IA que prioriza la cartera por riesgo y redacta mensajes de cobranza con Claude, validados con reglas de negocio. Python, Anthropic API, Streamlit. |
 | [Metanoia.v1.0.1](https://github.com/varelajm10/Metanoia.v1.0.1) | ERP modular multi-tenant en Next.js, TypeScript y Prisma (PostgreSQL). |
 | [metanoia-app](https://github.com/varelajm10/metanoia-app) | Panel de gestión con asistentes de IA (Next.js, Firebase, Genkit/Gemini). |
 
@@ -77,7 +79,7 @@ Freelance, 100% remoto desde Buenos Aires (UTC-3), en español e inglés.
 - **AscenSort:** desktop app for failure analysis and statistical quality control, used by an elevator & escalator maintenance company.
 - **Metanoia:** internal module that centralized collections, aging and KPIs, saving ~15 hours of manual work per week.
 
-Source code for these is private (client-owned or sensitive data); happy to demo on a call. Public prototypes: [Metanoia.v1.0.1](https://github.com/varelajm10/Metanoia.v1.0.1) and [metanoia-app](https://github.com/varelajm10/metanoia-app).
+Source code for these is private (client-owned or sensitive data); happy to demo on a call. Open source: [conciliacion-bancaria](https://github.com/varelajm10/conciliacion-bancaria) (automated bank reconciliation) and [agente-cobranzas-ia](https://github.com/varelajm10/agente-cobranzas-ia) (AI collections agent with Claude). Prototypes: [Metanoia.v1.0.1](https://github.com/varelajm10/Metanoia.v1.0.1) and [metanoia-app](https://github.com/varelajm10/metanoia-app).
 
 **Work with me:** freelance, fully remote from Buenos Aires (UTC-3) · [Malt](https://www.malt.com/profile/juanmanuelvarela) · [Upwork](https://www.upwork.com/freelancers/~018e401f66a51ddd08)
 
