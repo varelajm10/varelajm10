@@ -22,6 +22,21 @@ Primero entiendo el proceso, los números y el retorno; después escribo código
 
 > El código de estos proyectos es privado porque pertenece a clientes o contiene datos sensibles. Con gusto los muestro en una llamada.
 
+### CUBO en imágenes
+
+<p align="center">
+  <img src="assets/cubo-hero.png" alt="Landing de CUBO" width="800">
+</p>
+
+<p align="center">
+  <img src="assets/cubo-panel.png" alt="Panel de cobranza de CUBO (datos de demostración)" width="800"><br>
+  <sub>Panel de cobranza: total por cobrar, vencido, cobros del mes y facturas de mayor riesgo. Datos de demostración.</sub>
+</p>
+
+<p align="center">
+  <img src="assets/cubo-features.png" alt="Funcionalidades de CUBO" width="800">
+</p>
+
 **Resultado destacado (Saputo):** un modelo de segmentación de riesgo que redujo un 20% la deuda vencida a +60 días en seis meses.
 
 ### Prototipos públicos
